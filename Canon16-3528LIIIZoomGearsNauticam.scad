@@ -1,9 +1,8 @@
 
 $fn=82*4 ;       // Smooth cylinders
 
-//OuterRadius        = 84.90 / 2; // These are the desired dimensions and may need to be measured and adjusted as above      
 OuterRadius        = 100.90 / 2; // These are the desired dimensions and may need to be measured and adjusted as above      
-InnerRadius        = 80.0                 / 2; // These are the desired dimensions and may need to be measured and adjusted as above      
+InnerRadius        = 79.9   / 2; // These are the desired dimensions and may need to be measured and adjusted as above      
 
 Height             = 6.0;       // The height of the housings gear ring.
 GearHeight         = 6.0;       // The height of the housings gears.
